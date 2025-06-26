@@ -11,7 +11,7 @@ const mentors = [
     title: 'Founder - WoodenScale Ventures',
     subtitle: 'Founder - PrepBytes (Acquired)',
     description: 'Angel Investor, EX-SDE Amazon',
-    image: '',
+    image: 'https://static.vecteezy.com/system/resources/thumbnails/038/962/461/small/ai-generated-caucasian-successful-confident-young-businesswoman-ceo-boss-bank-employee-worker-manager-with-arms-crossed-in-formal-wear-isolated-in-white-background-photo.jpg',
     linkedin: 'https://linkedin.com/in/mentor1',
   },
   {
@@ -19,7 +19,7 @@ const mentors = [
     title: 'Co-Founder, Dehaat',
     subtitle: 'Angel Investor',
     description: 'lll',
-    image: '/images/mentor-2.jpg',
+    image: 'https://static.vecteezy.com/system/resources/thumbnails/038/962/461/small/ai-generated-caucasian-successful-confident-young-businesswoman-ceo-boss-bank-employee-worker-manager-with-arms-crossed-in-formal-wear-isolated-in-white-background-photo.jpg',
     linkedin: 'https://linkedin.com/in/mentor2',
   },
   ...Array.from({ length: 18 }, (_, i) => ({
@@ -27,7 +27,7 @@ const mentors = [
     title: `Title ${i + 3}`,
     subtitle: `Subtitle ${i + 3}`,
     description: `Description ${i + 3}`,
-    image: `/images/mentor-${(i % 5) + 1}.jpg`,
+    image: `https://static.vecteezy.com/system/resources/thumbnails/038/962/461/small/ai-generated-caucasian-successful-confident-young-businesswoman-ceo-boss-bank-employee-worker-manager-with-arms-crossed-in-formal-wear-isolated-in-white-background-photo.jpg`,
     linkedin: `https://linkedin.com/in/mentor${i + 3}`,
   })),
 ];

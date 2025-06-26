@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <div>
       <HomeHero1 />
+
       <HomeHero2 />
       <HomeHero3/>
       <HomeHero4 />

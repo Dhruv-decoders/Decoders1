@@ -76,6 +76,7 @@ const HomeHero1 = () => {
             >
               Join Founder's Community
             </Link>
+
           </motion.div>
         </div>
       </div>
