@@ -74,7 +74,7 @@ const HomeHero1 = () => {
               href="https://discord.gg"
               className="px-6 py-3 md:px-8 md:py-4 md:text-lg rounded-full bg-white/[0.05] hover:bg-white/[0.1] border border-white/[0.1] text-white font-medium transition-colors duration-300"
             >
-              Join Founder's Community
+              Join Founder&apos;s Community
             </Link>
 
           </motion.div>
